@@ -1,0 +1,82 @@
+{
+  "common": {},
+
+  "componentsText": {
+    "success": "Success",
+    "warning": "Warning",
+    "error": "Error",
+    "send": "Send",
+    "update": "Update",
+    "save": "Save",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "verify": "Verify",
+    "downloadCv": "Download CV",
+    "uploadPhoto": "Upload Photo",
+    "ok": "OK",
+    "disclosure": "Disclosure!",
+    "detailedPositionSelector": "Detailed Position Selector",
+    "account": "Account",
+    "myAccount": "My account",
+    "signOut": "Sign out",
+    "theme": "Theme",
+    "language": "Language",
+    "themeSettingsTitle": "Please choose a theme",
+    "dark": "Dark",
+    "default": "Default",
+    "languageSettingsTitle": "Please choose a language",
+    "english": "English",
+    "turkish": "Turkish",
+    "guest": "Guest"
+  },
+  "sidebar": {
+    "explorer": "EXPLORER",
+    "myProjects": "My Projects",
+    "reactProjects": "React Projects",
+    "reduxProjects": "Redux Projects",
+    "nextProjects": "Next.Js Projects"
+  },
+  "homePage": {
+    "welcome": ["Hi all 👋, welcome to my website"],
+    "whoAmI": [
+      "const whoAmI = {",
+      "  name: \"Abdulkadir\",",
+      "  surname: \"KARA\",",
+      "  profession: \"Back-End Developer\",",
+      "}"
+    ],
+    "linkedInProfileDesc": "// If you'd like, you can review my LinkedIn profile,",
+    "githubProfileDesc": "// or visit my GitHub page and explore my repositories."
+  },
+  "aboutPage": {
+    "aboutSectionTitle": "About Me",
+    "mySkillsSectionTitle": "My Skills",
+    "aboutMe": [
+      " /**",
+      " * Hello! 👋 I'm Abdulkadir KARA,",
+      " * a 32-year-old Back-End software developer who speaks the magical language of codes in the digital world 😊",
+      " * I'm building my own world on the computer in Istanbul, beautiful Turkey.",
+      " *",
+      " * In this adventure that I started with ERP and CRM software team in 'Kurumsal Yazılım' company, I gained a lot of knowledge and experience.",
+      " * Currently, I continue my adventure as a Back-End software developer on the bugbounty platform.",
+      " * Especially under the roof of bugbounty, I played a decisive role in making critical decisions such as creating Front-End architecture and establishing the context structure.",
+      " *",
+      " * As a result of my knowledge and experience, I have a wide range of experience from HTML to CSS, JavaScript to ReactJS and VueJS, Redux to NextJS.",
+      " * I love designing user interfaces aesthetically with tools like MaterialUI, Bootstrap, and SemanticUI. I've made friends with technologies like NodeJS, MongoDB, Firebase, and I'm proficient with tools like postman, cypress, and Git.",
+      " *",
+      " * I'm ready to share with you what I've learned during my five years in the Front-End world, my experience and passion. I look forward to working together on future projects 💻✨",
+      "*/"
+    ]
+  },
+  "contactPage": {
+    "newMessageSectionTitle": "How Can I Help You?",
+    "newMessageViewSectionTitle": "Explore the System!",
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "title": "Subject Title",
+    "message": "Message"
+  }
+}

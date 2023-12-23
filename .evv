@@ -1,0 +1,31 @@
+# OTHER CONFIG
+GENERATE_SOURCEMAP = false
+
+# CLIENT DEVELOPMENT START PORT
+PORT = 3013
+
+# BACKEND PORT
+REACT_APP_API_HOST = "http://localhost"
+REACT_APP_API_PORT = 3012 
+REACT_APP_API_BASE_URL = "/api/v1/"
+
+# FIREBASE CONFIG
+REACT_APP_FIREBASE_API_KEY = "***************"
+REACT_APP_FIREBASE_AUTH_DOMAIN = "***************"
+REACT_APP_FIREBASE_PROJECT_ID = "***************"
+REACT_APP_FIREBASE_STORAGE_BUCKET = "***************"
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID = "***************"
+REACT_APP_FIREBASE_APP_ID = "***************"
+
+# TINYMCE API KEY
+REACT_APP_TINYMCE_API_KEY = "***************"
+
+# My Social Media Account Links
+REACT_APP_GITHUB = "https://github.com/abdulkadirkara"
+REACT_APP_LINKEDIN = "https://www.linkedin.com/in/cridak/"
+REACT_APP_MEDIUM = "#"
+REACT_APP_STACKOVERFLOW = "#"
+
+# My Contact Informations
+REACT_APP_MY_GMAIL = "abdulkadirrkara@gmail.com"
+REACT_APP_MY_PHONE = "0-537-517-5153"

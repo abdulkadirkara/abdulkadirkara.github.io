@@ -1,0 +1,82 @@
+{
+  "common": {},
+
+  "componentsText": {
+    "success": "Başarılı",
+    "warning": "Uyarı",
+    "error": "Hata",
+    "send": "Gönder",
+    "update": "Güncelle",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "cancel": "İptal Et",
+    "signIn": "Giriş yap",
+    "signUp": "Kayıt ol",
+    "verify": "Doğrula",
+    "downloadCv": "CV'yi İndir",
+    "uploadPhoto": "Fotoğraf Yükle",
+    "ok": "TAMAM",
+    "disclosure": "Açıklama!",
+    "detailedPositionSelector": "Detaylı Konum Seçici",
+    "account": "Hesap",
+    "myAccount": "Benim hesabım",
+    "signOut": "Oturumu kapat",
+    "theme": "Tema",
+    "language": "Dil",
+    "themeSettingsTitle": "Lütfen bir tema seç",
+    "dark": "Karanlık",
+    "default": "Varsayılan",
+    "languageSettingsTitle": "Lütfen bir dil seç",
+    "english": "İngilizce",
+    "turkish": "Türkçe",
+    "guest": "Misafir"
+  },
+  "sidebar": {
+    "explorer": "KEŞİF",
+    "myProjects": "Projelerim",
+    "reactProjects": "React Projeleri",
+    "reduxProjects": "Redux Projeleri",
+    "nextProjects": "Next.Js Projeleri"
+  },
+  "homePage": {
+    "welcome": ["Herkese merhaba 👋, web siteme hoş geldiniz"],
+    "whoAmI": [
+      "const whoAmI = {",
+      "  name: \"Abdulkadir\",",
+      "  surname: \"KARA\",",
+      "  profession: \"Sofware Developer\",",
+      "}"
+    ],
+    "linkedInProfileDesc": "// İsterseniz LinkedIn profilimi inceleyebilirsiniz,",
+    "githubProfileDesc": "// veya GitHub sayfamı ziyaret edin ve depolarımı keşfedin."
+  },
+  "aboutPage": {
+    "aboutSectionTitle": "Hakkımda",
+    "mySkillsSectionTitle": "Yeteneklerim",
+    "aboutMe": [
+      " /**",
+      " * Merhaba! 👋 Ben Abdulkadir KARA,",
+      " * dijital dünyada kodların büyülü dilini konuşturan 31 yaşında bir Front-End yazılımcısıyım.😊",
+      " * Güzel Türkiye'nin Sakarya şehrinde, bilgisayar başında kendi dünyamı inşa ediyorum.",
+      " *",
+      " * 'Kurumsal Yazılım' firmasında harmony-erp yazılım ekibi ile yola çıktığım bu serüvende, birçok bilgi ve tecübe kazandım.",
+      " * Şu anda ise bugbounty platformunda Front-End yazılımcısı olarak serüvenime devam ediyorum.",
+      " * Özellikle bugbounty çatısı altında Front-End mimarisinin oluşturulması, context yapısının kurulması gibi kritik kararların alınmasında belirleyici rol oynadım.",
+      " *",
+      " * Edindiğim bilgi ve tecrübeler neticesinde HTML'den CSS'ye, JavaScript'ten ReactJS ve VueJS'e, Redux'tan NextJS'e kadar geniş bir yelpazede deneyime sahibim.",
+      " * MaterialUI, Bootstrap ve SemanticUI gibi araçlarla kullanıcı arayüzlerini estetik bir şekilde tasarlamayı seviyorum. NodeJS, MongoDB, Firebase gibi teknolojilerle arkadaş oldum ve postman, cypress, Git gibi araçları ustalıkla kullanıyorum.",
+      " *",
+      " * Front-End dünyasında geçirdiğim beş yıl boyunca öğrendiklerimi, deneyimlerimi ve tutkumu sizinle paylaşmaya hazırım. İleriye dönük projelerde birlikte çalışmak için sabırsızlanıyorum! 💻✨",
+      "*/"
+    ]
+  },
+  "contactPage": {
+    "newMessageSectionTitle": "Size Nasıl Yardımcı Olabilirim?",
+    "newMessageViewSectionTitle": "Sistemi Keşfedin!",
+    "name": "Ad",
+    "surname": "Soyad",
+    "email": "E-posta",
+    "title": "Konu Başlığı",
+    "message": "Mesaj"
+  }
+}

@@ -1,0 +1,14 @@
+.react-syntax-highlighter-line-number {
+  background: none !important;
+}
+
+.react-syntax-highlighter-line-number pre {
+  background: none !important;
+}
+
+#syntaxHighlighterWrapper pre {
+  background: none !important;
+  background-color: none !important;
+  margin-top: 1px;
+  margin-left: 0px;
+}
